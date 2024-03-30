@@ -56,7 +56,7 @@
 	path = ASM/Tat/lz4-m68k
 	url = https://github.com/tattlemuss/lz4-m68k.git
 [submodule "C/D. Henderson/falcdate"]
-	path = C/D. Henderson/falcdate
+	path = C/David Henderson/falcdate
 	url = https://github.com/dh219/falcdate.git
 [submodule "ASM/Vulkteamet/ffs-atari-intro"]
 	path = ASM/Vulkteamet/ffs-atari-intro
@@ -64,9 +64,6 @@
 [submodule "ASM/Tat/folly"]
 	path = ASM/Tat/folly
 	url = https://github.com/tattlemuss/folly.git
-[submodule "ASM/Various/Markus Hoffmann/Vt100emu-ST"]
-	path = ASM/Various/Markus Hoffmann/Vt100emu-ST
-	url = https://github.com/kollokollo/Vt100emu-ST
 [submodule "GFA Basic/The Beast (Stephane Perez)"]
 	path = GFA Basic/Stephane Perez (The Beast)/sources
 	url = https://github.com/stephane-perez/atari.git
@@ -103,9 +100,6 @@
 [submodule "C/Alan Richardson eviltester/atari-st-vector-tank"]
 	path = C/Alan Richardson (eviltester)/atari-st-vector-tank
 	url = https://github.com/eviltester/atari-st-vector-tank.git
-[submodule "C/Paweł Góralski n0kturnal/amidilib"]
-	path = C/Paweł Góralski n0kturnal/amidilib
-	url = https://github.com/n0kturnal/amidilib.git
 [submodule "ASM/Sigma Soft/AtariSTRomListings"]
 	path = ASM/Sigma Soft/AtariSTRomListings
 	url = https://github.com/sarnau/AtariSTRomListings
@@ -127,8 +121,8 @@
 [submodule "C/Leon Bentrup/atari-cntdwn"]
 	path = C/Leon Bentrup/atari-cntdwn
 	url = https://github.com/xanecs/atari-cntdwn.git
-[submodule "ASM/Various/Rob Cowell/cshock"]
-	path = ASM/Various/Rob Cowell/cshock
+[submodule "ASM/Various/Rob Cowell (Bossman)/cshock"]
+	path = ASM/Various/Rob Cowell (Bossman)/cshock
 	url = https://github.com/robcowell/cshock
 [submodule "C/Leon Bentrup/atari-stime"]
 	path = C/Leon Bentrup/atari-stime
@@ -157,9 +151,6 @@
 [submodule "Docs/doit_st"]
 	path = Docs/doit_st
 	url = https://github.com/doitarchive/doit_st.git
-[submodule "C/minix-st-1.5"]
-	path = C/minix-st-1.5
-	url = https://github.com/EmmanuelKasper/minix-st-1.5.git
 [submodule "Various/STOberon"]
 	path = Various/STOberon
 	url = https://github.com/simonegli8/STOberon.git
@@ -229,15 +220,6 @@
 [submodule "C/Laurent Favard/JagOSFavard"]
 	path = C/Laurent Favard/JagOSFavard
 	url = https://github.com/laurent68k/JagOSFavard.git
-[submodule "ASM/Light/ste3ddemo"]
-	path = ASM/Light/ste3ddemo
-	url = https://ggnkua@bitbucket.org/AnimaInCorpore/ste3ddemo.git
-[submodule "ASM/Various/Sascha Springer (Anima)/chorensha"]
-	path = ASM/Various/Sascha Springer (Anima)/chorensha
-	url = https://ggnkua@bitbucket.org/AnimaInCorpore/chorensha.git
-[submodule "Various/Python/Jeffrey Armstrong/gempy"]
-	path = Various/Python/Jeffrey Armstrong/gempy
-	url = https://github.com/ArmstrongJ/gempy.git
 [submodule "Omikron Basic/Michael Koch/atarist"]
 	path = Omikron Basic/Michael Koch/atarist
 	url = https://github.com/tensberg/atarist.git
@@ -334,3 +316,613 @@
 [submodule "ASM/Holocaust/Zappy"]
 	path = ASM/Holocaust/Zappy
 	url = https://github.com/Pierre-Terdiman/Atari_ST
+[submodule "ASM/Dune/roc-hell"]
+	path = ASM/Dune/roc-hell
+	url = https://github.com/dune-demogroup/roc-hell.git
+[submodule "ASM/The Arctic Land/STE_FullScreen_MOD_Play"]
+	path = ASM/The Arctic Land/STE_FullScreen_MOD_Play
+	url = https://github.com/Uko-TAL/STE_FullScreen_MOD_Play.git
+[submodule "ASM/Various/Jonathan Opalise (chicane)/lotus-ste"]
+	path = ASM/Various/Jonathan Thomas (chicane)/lotus-ste
+	url = https://github.com/jonathanopalise/lotus-ste
+[submodule "C/madaxe/Sardonic"]
+	path = C/madaxe/Sardonic
+	url = https://github.com/madaxe-pns/Sardonic.git
+[submodule "Pascal/Thomas Much/texel"]
+	path = Pascal/Thomas Much/texel
+	url = https://github.com/thmuch/texel.git
+[submodule "ASM/ULM/syncexplorer"]
+	path = ASM/ULM/syncexplorer
+	url = https://github.com/Gunstick/syncexplorer.git
+[submodule "ASM/Christian Zietz/ideboot"]
+	path = ASM/Various/Christian Zietz/ideboot
+	url = https://github.com/czietz/ideboot.git
+[submodule "ASM/Various/Frank Heisig/st_side_scrl"]
+	path = ASM/Various/Frank Heisig/st_side_scrl
+	url = https://github.com/frankheisig71/st_side_scrl.git
+[submodule "ASM/Tat/sonolumineszenz"]
+	path = ASM/Tat/sonolumineszenz
+	url = https://github.com/tattlemuss/sonolumineszenz
+[submodule "Docs/AtariDocumentation"]
+	path = Docs/AtariDocumentation
+	url = https://github.com/sarnau/AtariDocumentation
+[submodule "C/Matt Lacey/Falcon-030-Framework"]
+	path = C/Matt Lacey/Falcon-030-Framework
+	url = https://github.com/mattlacey/Falcon-030-Framework.git
+[submodule "ASM/Sector One/zpacker"]
+	path = ASM/Sector One/zpacker
+	url = https://github.com/zerkman/zpacker.git
+[submodule "C/Douglas Little (DML)/agtools"]
+	path = C/Douglas Little (DML)/agtools
+	url = https://bitbucket.org/d_m_l/agtools.git
+[submodule "STOS/Jérôme Mahieux/Sam-Nasty"]
+	path = STOS/Jérôme Mahieux/Sam-Nasty
+	url = https://github.com/spamandeggs/Sam-Nasty
+[submodule "ASM/Various/David SPORN/sporny-wrecking-ball"]
+	path = ASM/Various/David SPORN/sporny-wrecking-ball
+	url = https://github.com/sporniket/sporny-wrecking-ball
+[submodule "Docs/m68k-microcode"]
+	path = Docs/m68k-microcode
+	url = https://github.com/larsbrinkhoff/m68k-microcode
+[submodule "C/Lars Brinkhoff (NoLars)/pack-ice"]
+	path = C/Lars Brinkhoff (NoLars)/pack-ice
+	url = https://github.com/larsbrinkhoff/pack-ice
+[submodule "C/Frederik Noring (noring)/psgplay"]
+	path = C/Frederik Noring (noring)/psgplay
+	url = https://github.com/frno7/psgplay
+[submodule "C/Frederik Noring (noring)/sndhfix"]
+	path = C/Frederik Noring (noring)/sndhfix
+	url = https://github.com/frno7/sndhfix
+[submodule "ASM/Various/Anders Granlund/rtc"]
+	path = ASM/Various/Anders Granlund/rtc
+	url = https://github.com/agranlund/rtc
+[submodule "ASM/Various/Anders Granlund/tftools"]
+	path = ASM/Various/Anders Granlund/tftools
+	url = https://github.com/agranlund/tftools
+[submodule "ASM/Inter/IDL"]
+	path = ASM/Inter/IDL
+	url = https://github.com/samurai-ka/IDL
+[submodule "Various/Forth/Bob Lee/OneForth"]
+	path = Various/Forth/Bob Lee/OneForth
+	url = https://github.com/ForthHub/OneForth
+[submodule "Various/Forth/Fredrik Noring/frth"]
+	path = Various/Forth/Fredrik Noring/frth
+	url = https://github.com/frno7/frth
+[submodule "Various/Forth/Joerg Plewe/f68k"]
+	path = Various/Forth/Joerg Plewe/f68k
+	url = https://github.com/cstrotm/f68k
+[submodule "Various/Forth/Lars Brinkhoff/realforth"]
+	path = Various/Forth/Lars Brinkhoff/realforth
+	url = https://github.com/charlescurley/realforth
+[submodule "Various/Forth/Carsten Strotmann/f68kans"]
+	path = Various/Forth/Carsten Strotmann/f68kans
+	url = https://github.com/cstrotm/f68kans
+[submodule "Various/Forth/Nick Porcino/Fusion-Forth"]
+	path = Various/Forth/Nick Porcino/Fusion-Forth
+	url = https://github.com/meshula/Fusion-Forth
+[submodule "ASM/Various/YQN/YQN-music-disk"]
+	path = ASM/Various/YQN/YQN-music-disk
+	url = https://github.com/yawn-g/YQN-music-disk.git
+[submodule "C/Jeff Armstrong/gemworm"]
+	path = C/Jeff Armstrong/gemworm
+	url = https://github.com/ArmstrongJ/gemworm.git
+[submodule "GFA Basic/Christian Lønaas/old_gfa_basic_sources"]
+	path = GFA Basic/Christian Lønaas/old_gfa_basic_sources
+	url = https://github.com/sokkalf/old_gfa_basic_sources
+[submodule "ASM/Genesis Project/gpxmas_public"]
+	path = ASM/Genesis Project/gpxmas_public
+	url = https://github.com/spkrsmfx/gpxmas_public
+[submodule "Various/Hisoft Basic/Rob V/minipos"]
+	path = Various/Hisoft Basic/Rob V/minipos
+	url = https://github.com/winterhard/minipos
+[submodule "ASM/Various/Markus Hoffmann/Convert3-ST"]
+	path = ASM/Various/Markus Hoffmann/Convert3-ST
+	url = https://codeberg.org/kollo/Convert3-ST.git
+[submodule "ASM/Various/Markus Hoffmann/Vt100emu-ST"]
+	path = ASM/Various/Markus Hoffmann/Vt100emu-ST
+	url = https://codeberg.org/kollo/Vt100emu-ST.git
+[submodule "ASM/Various/Markus Hoffmann/Sp-Sek-ST"]
+	path = ASM/Various/Markus Hoffmann/Sp-Sek-ST
+	url = https://codeberg.org/kollo/Sp-Sek-ST.git
+[submodule "ASM/Various/Markus Hoffmann/Atomuhr-ST"]
+	path = ASM/Various/Markus Hoffmann/Atomuhr-ST
+	url = https://codeberg.org/kollo/Atomuhr-ST.git
+[submodule "ASM/Various/Markus Hoffmann/R-Disk-ST"]
+	path = ASM/Various/Markus Hoffmann/R-Disk-ST
+	url = https://codeberg.org/kollo/R-Disk-ST.git
+[submodule "ASM/Unit 17/SVENSKDT"]
+	path = ASM/Unit 17/SVENSKDT
+	url = https://github.com/copsonit/SVENSKDT.git
+[submodule "C/Anodyne/netusbee"]
+	path = C/Anodyne/netusbee
+	url = https://github.com/anodynesoftware/netusbee.git
+[submodule "ASM/Various/deetzi/hxcmount"]
+	path = ASM/Various/Dave Cowderoy/hxcmount
+	url = https://github.com/deetzi/hxcmount.git
+[submodule "C/Hugo Labrande/jzip-atariST"]
+	path = C/Hugo Labrande/jzip-atariST
+	url = https://github.com/hlabrand/jzip-atariST.git
+[submodule "ASM/The Arctic Land/TheStarWarsDemo"]
+	path = ASM/The Arctic Land/TheStarWarsDemo
+	url = https://github.com/Uko-TAL/TheStarWarsDemo.git
+[submodule "C/Christian Zietz/linpack-atari"]
+	path = C/Christian Zietz/linpack-atari
+	url = https://github.com/czietz/linpack-atari/
+[submodule "C/Christian Zietz/coremark"]
+	path = C/Christian Zietz/coremark
+	url = https://github.com/czietz/coremark
+[submodule "ASM/Replicants/r1pp3r"]
+	path = ASM/Replicants/r1pp3r
+	url = https://github.com/orionfuzion/r1pp3r
+[submodule "ASM/Replicants/dec0de"]
+	path = ASM/Replicants/dec0de
+	url = https://github.com/orionfuzion/dec0de
+[submodule "GFA Basic/ASN/GFA-BASIC-Series-2"]
+	path = GFA Basic/ASN/GFA-BASIC-Series-2
+	url = https://github.com/AtariSTNostalgia/GFA-BASIC-Series-2.git
+[submodule "GFA Basic/ASN/GFA-BASIC-Series-3"]
+	path = GFA Basic/ASN/GFA-BASIC-Series-3
+	url = https://github.com/AtariSTNostalgia/GFA-BASIC-Series-3.git
+[submodule "Docs/Atari-STBook-STylus-Test-Cartridge"]
+	path = Docs/Atari-STBook-STylus-Test-Cartridge
+	url = https://github.com/sarnau/Atari-STBook-STylus-Test-Cartridge
+[submodule "C/Megamax/AtariST-HD-Info"]
+	path = C/Megamax/AtariST-HD-Info
+	url = https://github.com/pjones1063/AtariST-HD-Info.git
+[submodule "C/Clayton Walnum/AtariST-CManship"]
+	path = C/Clayton Walnum/AtariST-CManship
+	url = https://github.com/pjones1063/AtariST-CManship.git
+[submodule "C/Megamax/AtariST-Date-Prompt-Dialog"]
+	path = C/Megamax/AtariST-Date-Prompt-Dialog
+	url = https://github.com/pjones1063/AtariST-Date-Prompt-Dialog.git
+[submodule "C/Bruce E. Wampler/tvx"]
+	path = C/Bruce E. Wampler/tvx
+	url = https://github.com/johnsonjh/tvx.git
+[submodule "Various/Hisoft Basic/Rob V/algomusic"]
+	path = Various/Hisoft Basic/Rob V/algomusic
+	url = https://github.com/winterhard/algomusic
+[submodule "ASM/Various/z80Andrew/SerialDisk"]
+	path = ASM/Various/z80Andrew/SerialDisk
+	url = https://github.com/z80andrew/SerialDisk.git
+[submodule "ASM/Various/Uwe Seimet/atari_public"]
+	path = ASM/Various/Uwe Seimet/atari_public
+	url = https://github.com/uweseimet/atari_public
+[submodule "ASM/Rift/LanceReplay"]
+	path = ASM/Rift/LanceReplay
+	url = https://github.com/robcowell/LanceReplay.git
+[submodule "ASM/Rift/ancients"]
+	path = ASM/Rift/ancients
+	url = https://github.com/robcowell/ancients.git
+[submodule "ASM/Rift/altern8"]
+	path = ASM/Rift/altern8
+	url = https://github.com/robcowell/altern8.git
+[submodule "ASM/Various/Jonathan Thomas (chicane)/stunt-car-racer-ste"]
+	path = ASM/Various/Jonathan Thomas (chicane)/stunt-car-racer-ste
+	url = https://github.com/jonathanopalise/stunt-car-racer-ste.git
+[submodule "ASM/Various/Jonathan Thomas (chicane)/roadblasters-ste"]
+	path = ASM/Various/Jonathan Thomas (chicane)/roadblasters-ste
+	url = https://github.com/jonathanopalise/roadblasters-ste
+[submodule "ASM/Various/Jonathan Thomas (chicane)/deathbringer-ste"]
+	path = ASM/Various/Jonathan Thomas (chicane)/deathbringer-ste
+	url = https://github.com/jonathanopalise/deathbringer-ste
+[submodule "C/Cedric Nugteren/midisurf"]
+	path = C/Cedric Nugteren/midisurf
+	url = https://github.com/CNugteren/midisurf.git
+[submodule "ASM/Various/Cyril Lambin (fenarinarsa)/GhostKiller"]
+	path = ASM/Various/Cyril Lambin (fenarinarsa)/GhostKiller
+	url = https://github.com/fenarinarsa/GhostKiller.git
+[submodule "ASM/Various/Cyril Lambin (fenarinarsa)/atarist_vga"]
+	path = ASM/Various/Cyril Lambin (fenarinarsa)/atarist_vga
+	url = https://github.com/fenarinarsa/atarist_vga.git
+[submodule "ASM/Various/Cyril Lambin (fenarinarsa)/ankha_intro"]
+	path = ASM/Various/Cyril Lambin (fenarinarsa)/ankha_intro
+	url = https://github.com/fenarinarsa/ankha_intro.git
+[submodule "C/Rémi Vanel/mountain"]
+	path = C/Rémi Vanel/mountain
+	url = https://github.com/remivanel/mountain.git
+[submodule "Pascal/Peter Slegg/GEMiCal"]
+	path = Pascal/Peter Slegg/GEMiCal
+	url = https://github.com/ps68060/GEMiCal.git
+[submodule "C/Peter Slegg/GEMasist"]
+	path = C/Peter Slegg/GEMasist
+	url = https://github.com/ps68060/GEMasist
+[submodule "ASM/Various/Stephan Wilhelm/startrack"]
+	path = ASM/Various/Stephan Wilhelm/startrack
+	url = https://github.com/eventcatcher/startrack.git
+[submodule "ASM/Oxygene/STrinkler"]
+	path = ASM/Oxygene/STrinkler
+	url = https://github.com/arnaud-carre/STrinkler.git
+[submodule "C/Reservoir Gods/GODLIB"]
+	path = C/Reservoir Gods/GODLIB
+	url = https://github.com/ReservoirGods/GODLIB.git
+[submodule "C/Reservoir Gods/GAMES.RG"]
+	path = C/Reservoir Gods/GAMES.RG
+	url = https://github.com/ReservoirGods/GAMES.RG.git
+[submodule "C/Reservoir Gods/TOOLS.RG"]
+	path = C/Reservoir Gods/TOOLS.RG
+	url = https://github.com/ReservoirGods/TOOLS.RG.git
+[submodule "C/Reservoir Gods/GODLIB.SPL"]
+	path = C/Reservoir Gods/GODLIB.SPL
+	url = https://github.com/ReservoirGods/GODLIB.SPL.git
+[submodule "C/Jonathan Thomas (chicane)/atari-st-sprite-toolkit"]
+	path = C/Jonathan Thomas (chicane)/atari-st-sprite-toolkit
+	url = https://github.com/jonathanopalise/atari-st-sprite-toolkit
+[submodule "STOS/David Walters/hellgate"]
+	path = STOS/David Walters/hellgate
+	url = https://github.com/hiddenasbestos/hellgate
+[submodule "C/D. Henderson/cartdump"]
+	path = C/David Henderson/cartdump
+	url = https://github.com/dh219/cartdump
+[submodule "C/Johan Klockars/fVDI_from_0.958"]
+	path = C/Johan Klockars/fVDI_from_0.958
+	url = https://github.com/jklockars/fVDI_from_0.958.git
+[submodule "C/Standa Opichal/libhyp"]
+	path = C/Standa Opichal/libhyp
+	url = https://github.com/opichals/libhyp.git
+[submodule "ASM/ULM/Colorful-Boxes"]
+	path = ASM/ULM/Colorful-Boxes
+	url = https://github.com/Gunstick/Colorful-Boxes.git
+[submodule "ASM/Various/Sascha Springer (Anima)/chorensha"]
+	path = ASM/Various/Sascha Springer (Anima)/chorensha
+	url = https://bitbucket.org/AnimaInCorpore/chorensha.git
+[submodule "C/Anders Granlund/ScummST"]
+	path = C/Anders Granlund/ScummST
+	url = https://github.com/agranlund/ScummST.git
+[submodule "ASM/Various/Anders Granlund/modesw"]
+	path = ASM/Various/Anders Granlund/modesw
+	url = https://github.com/agranlund/modesw
+[submodule "C/Uwe Seimet/atari_public"]
+	path = C/Uwe Seimet/atari_public
+	url = https://github.com/uweseimet/atari_public.git
+[submodule "ASM/Various/Jonathan Thomas (chicane)/atari-ste-particle-shooter"]
+	path = ASM/Various/Jonathan Thomas (chicane)/atari-ste-particle-shooter
+	url = https://github.com/jonathanopalise/atari-ste-particle-shooter.git
+[submodule "ASM/Various/Cumar Yusuf/Comp2659Cumar-Braedan"]
+	path = ASM/Various/Cumar Yusuf/Comp2659Cumar-Braedan
+	url = https://github.com/borto641/Comp2659Cumar-Braedan.git
+[submodule "ASM/Various/Austin Eaton/Metroid2659Project"]
+	path = ASM/Various/Austin Eaton/Metroid2659Project
+	url = https://github.com/Austout/Metroid2659Project.git
+[submodule "ASM/Various/Soren Edwards/COMP2659"]
+	path = ASM/Various/Soren Edwards/COMP2659
+	url = https://github.com/SorenEdwards/COMP2659
+[submodule "ASM/Various/CozyBurrito/COMP2659-Project"]
+	path = ASM/Various/CozyBurrito/COMP2659-Project
+	url = https://github.com/CozyBurrito/COMP2659-Project
+[submodule "ASM/Various/James Coté/Tetris"]
+	path = ASM/Various/James Coté/Tetris
+	url = https://github.com/jamescote/Tetris.git
+[submodule "ASM/Various/StaplesofDoom/2659-Project"]
+	path = ASM/Various/StaplesofDoom/2659-Project
+	url = https://github.com/StaplesofDoom/2659-Project.git
+[submodule "C/Gerhard Stoll/7UP-Editor"]
+	path = C/Gerhard Stoll/7UP-Editor
+	url = https://github.com/pulsar122/7UP-Editor.git
+[submodule "C/Gerhard Stoll/SuJi"]
+	path = C/Gerhard Stoll/SuJi
+	url = https://github.com/pulsar122/SuJi.git
+[submodule "C/Gerhard Stoll/dBASE-to-Phoenix"]
+	path = C/Gerhard Stoll/dBASE-to-Phoenix
+	url = https://github.com/pulsar122/dBASE-to-Phoenix.git
+[submodule "C/Gerhard Stoll/MagXMiNT.NET"]
+	path = C/Gerhard Stoll/MagXMiNT.NET
+	url = https://github.com/pulsar122/MagXMiNT.NET
+[submodule "C/Timm Ganske/Cat-Stat"]
+	path = C/Timm Ganske/Cat-Stat
+	url = https://github.com/pulsar122/Cat-Stat.git
+[submodule "C/Thomas Much/t2"]
+	path = C/Thomas Much/t2
+	url = https://github.com/thmuch/t2.git
+[submodule "Pascal/Thomas Much/bubblegem"]
+	path = Pascal/Thomas Much/bubblegem
+	url = https://github.com/thmuch/bubblegem.git
+[submodule "Pascal/Thomas Much/objectgem"]
+	path = Pascal/Thomas Much/objectgem
+	url = https://github.com/thmuch/objectgem.git
+[submodule "C/Arno Welzel/thing"]
+	path = C/Arno Welzel/thing
+	url = https://github.com/arnowelzel/thing.git
+[submodule "ASM/Various/Sébastien LIENARD/impulse"]
+	path = ASM/Various/Sébastien LIENARD/impulse
+	url = https://gitlab.com/slienard/impulse.git
+[submodule "ASM/Various/Rob Hogan/gridrunner"]
+	path = ASM/Various/Rob Hogan/gridrunner
+	url = https://github.com/mwenge/gridrunner.git
+[submodule "ASM/Various/Emmanuel Marty/unzx0_68000"]
+	path = ASM/Various/Emmanuel Marty/unzx0_68000
+	url = https://github.com/emmanuel-marty/unzx0_68000.git
+[submodule "C/Artem Golovin/space-invaders"]
+	path = C/Artem Golovin/space-invaders
+	url = https://github.com/awave1/space-invaders.git
+[submodule "GFA/Tom White/mandelbrot-1989"]
+	path = GFA Basic/Tom White/mandelbrot-1989
+	url = https://github.com/tomwhite/mandelbrot-1989.git
+[submodule "C/Miro Kropacek (MiKRO)/uDump"]
+	path = C/Miro Kropacek (MiKRO)/uDump
+	url = https://github.com/mikrosk/uDump.git
+[submodule "ASM/Various/Tom Zoerner/ST_assembly"]
+	path = ASM/Various/Tom Zoerner/ST_assembly
+	url = https://github.com/tomzox/ST_assembly.git
+[submodule "C/frno7/toslibc"]
+	path = C/frno7/toslibc
+	url = https://github.com/frno7/toslibc.git
+[submodule "C/frno7/sndhfix"]
+	path = C/frno7/sndhfix
+	url = https://github.com/frno7/sndhfix.git
+[submodule "GFA BASIC/Pär Bohrarper/cowbell-hero"]
+	path = GFA BASIC/Pär Bohrarper/cowbell-hero
+	url = https://github.com/parbo/cowbell-hero.git
+[submodule "C/Vincent B/MicroEMACS"]
+	path = C/Vincent B/MicroEMACS
+	url = https://github.com/vinz6751/MicroEMACS.git
+[submodule "C/Vincent B/Vinzeq"]
+	path = C/Vincent B/Vinzeq
+	url = https://github.com/vinz6751/Vinzeq.git
+[submodule "C/Vincent B/microemacs-st"]
+	path = C/Vincent B/microemacs-st
+	url = https://github.com/vinz6751/microemacs-st.git
+[submodule "ASM/Various/Vincent B/MPS"]
+	path = ASM/Various/Vincent B/MPS
+	url = https://github.com/vinz6751/MPS.git
+[submodule "C/Vincent B/notepad"]
+	path = C/Vincent B/notepad
+	url = https://github.com/vinz6751/notepad.git
+[submodule "C/Vincent B/st2disk"]
+	path = C/Vincent B/st2disk
+	url = https://github.com/vinz6751/st2disk.git
+[submodule "C/Markus Heiden/lharc"]
+	path = C/Markus Heiden/lharc
+	url = https://github.com/markusheiden/lharc.git
+[submodule "C/Jean LOUIS-GUERIN (DrCoolzic)/BIG2"]
+	path = C/Jean LOUIS-GUERIN (DrCoolzic)/BIG2
+	url = https://github.com/DrCoolzic/BIG2.git
+[submodule "C/Arthur Le Moigne/atari-creative-playground"]
+	path = C/Arthur Le Moigne/atari-creative-playground
+	url = https://github.com/arthurlm/atari-creative-playground.git
+[submodule "C/Radosław Kujawa/redriceOS"]
+    path = C/Radosław Kujawa/redriceOS
+    url = https://github.com/redrice/redriceOS.git
+[submodule "GFA Basic/Pär Bohrarper/cowbell-hero"]
+    path = GFA Basic/Pär Bohrarper/cowbell-hero
+    url = https://github.com/parbo/cowbell-hero.git
+[submodule "ASM/Impulse/pt_src3"]
+	path = ASM/Impulse/pt_src3
+	url = https://github.com/mrange/pt_src3.git
+[submodule "C/Johan Tibbelin/olcPixelGameEngineST"]
+	path = C/Johan Tibbelin/olcPixelGameEngineST
+	url = https://github.com/johantibbelin/olcPixelGameEngineST.git
+[submodule "C/Johan Tibbelin/moderngfa"]
+	path = C/Johan Tibbelin/moderngfa
+	url = https://github.com/johantibbelin/moderngfa.git
+[submodule "C/Johan Tibbelin/simpleGameEngine"]
+	path = C/Johan Tibbelin/simpleGameEngine
+	url = https://github.com/johantibbelin/simpleGameEngine.git
+[submodule "C/Johan Tibbelin/FujiNet.ST"]
+	path = C/Johan Tibbelin/FujiNet.ST
+	url = https://github.com/johantibbelin/FujiNet.ST
+[submodule "STOS/Mielcus/HK97"]
+	path = STOS/Mielcus/HK97
+	url = https://github.com/mielcus/HK97.git
+[submodule "ASM/Various/Jean-Matthieu COULON/acsi2stm"]
+	path = ASM/Various/Jean-Matthieu COULON/acsi2stm
+	url = https://github.com/retro16/acsi2stm
+[submodule "ASM/Various/z80andrew/SerialDisk"]
+	path = ASM/Various/z80andrew/SerialDisk
+	url = https://github.com/z80andrew/SerialDisk.git
+[submodule "ASM/ULM/big_y"]
+	path = ASM/ULM/big_y
+	url = https://github.com/Gunstick/big_y
+[submodule "ASM/ULM/minus2"]
+	path = ASM/ULM/minus2
+	url = https://github.com/Gunstick/minus2
+[submodule "ASM/ULM/minifull"]
+	path = ASM/ULM/minifull
+	url = https://github.com/Gunstick/minifull
+[submodule "ASM/ULM/wolframmer"]
+	path = ASM/ULM/wolframmer
+	url = https://github.com/Gunstick/wolframmer
+[submodule "ASM/ULM/ktbiyf"]
+	path = ASM/ULM/ktbiyf
+	url = https://github.com/Gunstick/ktbiyf
+[submodule "ASM/ULM/hwscroll"]
+	path = ASM/ULM/hwscroll
+	url = https://github.com/Gunstick/hwscroll
+[submodule "ASM/ULM/UnlimitedBobs"]
+	path = ASM/ULM/UnlimitedBobs
+    url = https://github.com/Gunstick/UnlimitedBobs
+[submodule "ASM/ULM/spriterecord"]
+    path = ASM/ULM/spriterecord
+    url = https://github.com/Gunstick/spriterecord.git
+[submodule "C/Miro Kropacek (MiKRO)/tyrquake"]
+	path = C/Miro Kropacek (MiKRO)/tyrquake
+	url = https://github.com/mikrosk/tyrquake
+	branch = atari
+[submodule "C/Miro Kropacek (MiKRO)/adn3d"]
+	path = C/Miro Kropacek (MiKRO)/adn3d
+	url = https://github.com/mikrosk/adn3d
+[submodule "C/Miro Kropacek (MiKRO)/quake"]
+	path = C/Miro Kropacek (MiKRO)/quake
+	url = https://github.com/mikrosk/quake
+[submodule "ASM/Various/Miro Kropacek (MiKRO)/qdsp"]
+	path = ASM/Various/Miro Kropacek (MiKRO)/qdsp
+	url = https://github.com/mikrosk/qdsp
+[submodule "C/Benoît Ganne"]
+	path = C/Benoît Ganne
+	url = https://github.com/bganne/libjoy.git
+[submodule "ASM/Various/David Henderson/diagromst"]
+	path = ASM/Various/David Henderson/diagromst
+	url = https://github.com/dh219/diagromst
+[submodule "ASM/The Arctic Land/TCB-Star-Wars-Scroller-Reverse-Engineering"]
+	path = ASM/The Arctic Land/TCB-Star-Wars-Scroller-Reverse-Engineering
+	url = https://github.com/Uko-TAL/TCB-Star-Wars-Scroller-Reverse-Engineering.git
+[submodule "ASM/Various/Computer's Dream/B.A.T.II"]
+	path = ASM/Various/Computer's Dream/B.A.T.II
+	url = https://github.com/frje/B.A.T.II
+[submodule "C/Daniel Bahrami/DownRoll"]
+	path = C/Daniel Bahrami/DownRoll
+	url = https://github.com/danielbram4/DownRoll.git
+[submodule "C/Joel Vaneg/ARSH"]
+	path = C/Joel Vaneg/ARSH
+	url = https://github.com/jvaneg/ARSH
+[submodule "C/Hans Wessels (Mr Ni!)/gup"]
+	path = C/Hans Wessels (Mr Ni!)/gup
+	url = https://github.com/HansWessels/gup.git
+[submodule "ASM/Altair/Dread-source-drop"]
+	path = ASM/Altair/Dread-source-drop
+	url = https://github.com/Krzysiek-K/Dread-source-drop.git
+[submodule "C/Olaf Piesche/smurf"]
+	path = C/Olaf Piesche/smurf
+	url = https://github.com/freemint/smurf.git
+[submodule "C/Dirk Haun/Lunkwill"]
+	path = C/Dirk Haun/Lunkwill
+	url = https://github.com/pulsar122/Lunkwill.git
+[submodule "C/Gerhard Stoll/Manitor"]
+	path = C/Gerhard Stoll/Manitor
+	url = https://github.com/pulsar122/Manitor.git
+[submodule "C/milan"]
+	path = C/milan
+	url = https://github.com/mschwingen/milan
+[submodule "C/Thomas Much/bubblegem"]
+	path = C/Thomas Much/bubblegem
+	url = https://github.com/thmuch/bubblegem.git
+[submodule "ASM/Black Scorpion Software/badmood"]
+	path = ASM/Black Scorpion Software/badmood
+	url = https://ggnkua@bitbucket.org/d_m_l/badmood.git
+[submodule "C/Seg/nitecrwl"]
+	path = C/Seg/nitecrwl
+	url = https://github.com/SegHaxx/nitecrwl
+[submodule "C/Seg/stlogo"]
+	path = C/Seg/stlogo
+	url = https://github.com/SegHaxx/stlogo
+[submodule "C/Seg/slimgem"]
+	path = C/Seg/slimgem
+	url = https://github.com/SegHaxx/slimgem
+[submodule "C/Seg/curdle"]
+	path = C/Seg/curdle
+	url = https://github.com/SegHaxx/curdle
+[submodule "ASM/Various/Diego Parrilla/atarist-silly-demo"]
+	path = ASM/Various/Diego Parrilla/atarist-silly-demo
+	url = https://github.com/diegoparrilla/atarist-silly-demo
+[submodule "ASM/Various/Keith Clark/atari-chunked-blits"]
+	path = ASM/Various/Keith Clark/atari-chunked-blits
+	url = https://github.com/keithclark/atari-chunked-blits
+[submodule "ASM/Various/Gilles Bouthenot/empcity"]
+	path = ASM/Various/Gilles Bouthenot/empcity
+	url = https://github.com/gbouthenot/empcity.git
+[submodule "ASM/Various/Jurie Horneman/Amberstar"]
+	path = ASM/Various/Jurie Horneman/Amberstar
+	url = https://github.com/jhorneman/amberstar
+[submodule "Pascal/Peter Slegg/GEMasist"]
+	path = Pascal/Peter Slegg/GEMasist
+	url = https://github.com/ps68060/GEMasist.git
+[submodule "Pascal/Peter Slegg/calndr"]
+	path = Pascal/Peter Slegg/calndr
+	url = https://github.com/ps68060/calndr.git
+[submodule "Asm/Various/Uwe Schneider/MilanBootblock"]
+	path = Asm/Various/Uwe Schneider/MilanBootblock
+	url = https://github.com/ps68060/MilanBootblock
+[submodule "ASM/Various/Michael Schwingen/MilanBootblock"]
+	path = ASM/Various/Michael Schwingen/MilanBootblock
+	url = https://github.com/ps68060/MilanBootblock.git
+[submodule "C/Andy Pennell/Atari_ST"]
+	path = C/Andy Pennell/Atari_ST
+	url = https://github.com/amp64/Atari_ST
+[submodule "GFA Basic/Vegard Hofsøy/midimate2"]
+	path = GFA Basic/Vegard Hofsøy/midimate2
+	url = https://github.com/veghof/midimate2.git
+[submodule "ASM/Senoir Dads/monomental"]
+	path = ASM/Senior Dads/monomental
+	url = https://github.com/theseniordads/monomental
+[submodule "ASM/Senior Dads/ultimatefake"]
+	path = ASM/Senior Dads/ultimatefake
+	url = https://github.com/theseniordads/ultimatefake
+[submodule "ASM/Senior Dads/dadplazz"]
+	path = ASM/Senior Dads/dadplazz
+	url = https://github.com/theseniordads/dadplazz
+[submodule "ASM/Senior Dads/stfloormat"]
+	path = ASM/Senior Dads/stfloormat
+	url = https://github.com/theseniordads/stfloormat
+[submodule "ASM/Senior Dads/xmascard97"]
+	path = ASM/Senior Dads/xmascard97
+	url = https://github.com/theseniordads/xmascard97
+[submodule "ASM/Senior Dads/airdirtdemo"]
+	path = ASM/Senior Dads/airdirtdemo
+	url = https://github.com/theseniordads/airdirtdemo
+[submodule "C/Chris Jenkins/hello_gem"]
+	path = C/Chris Jenkins/hello_gem
+	url = https://github.com/cdpjenkins/hello_gem.git
+[submodule "C/Medour Mehdi/mm_mint_mp4"]
+	path = C/Medour Mehdi/mm_mint_mp4
+	url = https://github.com/MedourMehdi/mm_mint_mp4
+[submodule "C/Medour Mehdi/mm_mint_pic"]
+	path = C/Medour Mehdi/mm_mint_pic
+	url = https://github.com/MedourMehdi/mm_mint_pic
+[submodule "C/Medour Mehdi/xpdf"]
+	path = C/Medour Mehdi/xpdf
+	url = https://github.com/MedourMehdi/xpdf.git
+[submodule "C/Medour Mehdi/Splay_Plugins"]
+	path = C/Medour Mehdi/Splay_Plugins
+	url = https://github.com/MedourMehdi/Splay_Plugins.git
+[submodule "ASM/Variuos/Diego Parrilla/atarist-ghostbusters-demo"]
+	path = ASM/Various/Diego Parrilla/atarist-ghostbusters-demo
+	url = https://github.com/diegoparrilla/atarist-ghostbusters-demo
+[submodule "ASM/Various/Manuel Teira/atari-st-cpm"]
+	path = ASM/Various/Manuel Teira/atari-st-cpm
+	url = https://github.com/teiram/atari-st-cpm.git
+[submodule "ASM/Sector One/shifter_inside"]
+	path = ASM/Sector One/shifter_inside
+	url = https://github.com/zerkman/shifter_inside.git
+[submodule "C/Matt Lacey/sprocket"]
+	path = C/Matt Lacey/sprocket
+	url = https://github.com/mattlacey/sprocket.git
+[submodule "ASM/Various/Paweł Góralski (n0kturnal)"]
+	path = ASM/Various/Paweł Góralski (n0kturnal)
+	url = https://bitbucket.org/nokturnal/stfmtest/src/master/
+[submodule "C/Vincent B/Calypsi-for-TOS"]
+	path = C/Vincent B/Calypsi-for-TOS
+	url = https://github.com/vinz6751/Calypsi-for-TOS
+[submodule "C/Vincent B/MPS"]
+	path = C/Vincent B/MPS
+	url = https://github.com/vinz6751/MPS.git
+[submodule "C/Vincent B/setenv"]
+	path = C/Vincent B/setenv
+	url = https://github.com/vinz6751/setenv
+[submodule "GFA Basic/Christos Tziotzis/Atari"]
+	path = GFA Basic/Christos Tziotzis/Atari
+	url = https://github.com/ctzio/Atari.git
+[submodule "C/Andreas Zdziarstek/mt32-pi-control"]
+	path = C/Andreas Zdziarstek/mt32-pi-control
+	url = https://github.com/gmcn42/mt32-pi-control.git
+[submodule "ASM/Sector One/zkbd"]
+	path = ASM/Sector One/zkbd
+	url = https://github.com/zerkman/zkbd.git
+[submodule "C/John Titor/qemu"]
+	path = C/John Titor/qemu
+	url = https://github.com/John-Titor/qemu.git
+[submodule "C/John Titor/emutos"]
+	path = C/John Titor/emutos
+	url = https://github.com/John-Titor/emutos.git
+[submodule "C/Gereon Steffens/gemini"]
+	path = C/Gereon Steffens/gemini
+	url = https://github.com/gereons/gemini.git
+[submodule "C/Gribnif Software/Geneva"]
+	path = C/Gribnif Software/Geneva
+	url = https://github.com/GribnifSoftware/Geneva
+[submodule "C/Gribnif Software/NeoDesk"]
+	path = C/Gribnif Software/NeoDesk
+	url = https://github.com/GribnifSoftware/NeoDesk
+[submodule "C/Gribnif Software/MemFile3"]
+	path = C/Gribnif Software/MemFile3
+	url = https://github.com/GribnifSoftware/MemFile3
+[submodule "C/Gribnif Software/JarXXX"]
+	path = C/Gribnif Software/JarXXX
+	url = https://github.com/GribnifSoftware/JarXXX
+[submodule "C/Gribnif Software/WorldClock"]
+	path = C/Gribnif Software/WorldClock
+	url = https://github.com/GribnifSoftware/WorldClock
+[submodule "C/Gribnif Software/Install"]
+	path = C/Gribnif Software/Install
+	url = https://github.com/GribnifSoftware/Install
+[submodule "C/Gribnif Software/ColaCalc"]
+	path = C/Gribnif Software/ColaCalc
+	url = https://github.com/GribnifSoftware/ColaCalc
